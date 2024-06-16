@@ -1,0 +1,2 @@
+INFO:sahil age is: 21 
+INFO:counting goes like:  1 2 3 4 5 
